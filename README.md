@@ -11,7 +11,8 @@ Hi! I'm **Nicole Holloway**, but well, you could just call me "Nicole." I'm in c
 **I currently maintain a few projects under my belt, including but not limited to:**
 * `playbook`, a message splitter and scripting language for multi-proxying with Discord bot Tupperbox
 * `storybook`, a storytelling engine interfacing with a Discord bot for interactive stories
-* `chocolite`, a SQLite-like database management system supporting multidimensional databases in containers
+* `chocolite`, an SQLite-like database management system supporting multidimensional databases in containers
+* `dcbotfactory`, a Discord bot base generator for multiple programming languages
 
 *Some are inactive because I either lost motivation or don't know where to start/continue.*\
 *Others are in my head, waiting to be unleashed and sent to GitHub repositories.*
