@@ -1,11 +1,12 @@
 ## It's Nicole!
 Hi! I'm **Nicole Holloway**, but well, you could just call me "Nicole." I'm in college, I enjoy making (~~and suffering with~~) programs on my free time, especially in my favourite language of all time, **C++**.
 
-**A lot of the stuff I work on falls on one of two categories:**
+**A lot of the stuff I work on falls on one of three categories:**
 * Purposeful.
 * Random.
+* Unfinished.
 
-*You will see most of my projects fall on the latter, hah!*
+*You will see most of my projects fall on the last two, hah!*
 
 **I currently maintain a few projects under my belt, including but not limited to:**
 * `playbook`, a message splitter and scripting language for multi-proxying with Discord bot Tupperbox
